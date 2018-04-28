@@ -2,7 +2,7 @@ package com.yz.lombokdemo;
 
 /**
  * Hello world!
- *
+ *司法地方
  */
 public class App 
 {
